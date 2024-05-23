@@ -9,8 +9,8 @@
 
 
 ## 运行环境
-**编程语言：C++**  
-**依赖库：VTK**  
+**编程语言：C++,Python**  
+
 
 ## 运行效果
 <img src="https://github.com/alicema-creator/ESP32cam-Development-Board-WiFi-Camera-Module-Object-Recognition/blob/main/screenshot/2.jpg" width="500"></a>

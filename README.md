@@ -13,8 +13,9 @@
 **依赖库：VTK**  
 
 ## 运行效果
-<img src="https://github.com/alicema-creator/ESP32cam-Development-Board-WiFi-Camera-Module-Object-Recognition/blob/main/screenshot/1.jpg" width="500"></a>
 <img src="https://github.com/alicema-creator/ESP32cam-Development-Board-WiFi-Camera-Module-Object-Recognition/blob/main/screenshot/2.jpg" width="500"></a>
+<img src="https://github.com/alicema-creator/ESP32cam-Development-Board-WiFi-Camera-Module-Object-Recognition/blob/main/screenshot/1.jpg" width="500"></a>
+
 
 
 
